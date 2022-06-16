@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Govinda",
+      "address": "DL",
+      "age": "25",
+      "department": "A",
+      "salary": "10000",
+      "married": "No",
+      "id": 1
+    },
+    {
+      "name": "neha",
+      "age": "25",
+      "address": "Mumbai",
+      "department": "C",
+      "salary": "456321",
+      "married": "Yes",
+      "id": 2
+    },
+    {
+      "name": "Rajiv",
+      "address": "Patna",
+      "married": "Yes",
+      "department": "A",
+      "age": "12",
+      "salary": "123322",
+      "id": 3
+    },
+    {
+      "name": "Rekha",
+      "age": "12",
+      "address": "Pune",
+      "department": "D",
+      "married": "Yes",
+      "salary": "789654",
+      "id": 4
+    },
+    {
+      "name": "Govinda",
+      "age": "25",
+      "address": "DL",
+      "department": "A",
+      "salary": "10000",
+      "married": "No",
+      "id": 5
+    }
+  ]
+}
